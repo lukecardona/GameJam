@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameMusic
+  - Collectable
+  - Enemy
+  - Box
+  - Platform
+  - Companion
+  - Therapist
+  - Collectible item
+  - AttackArea
+  - mania
+  - depression
+  - enemyspawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - JumpableGround
+  - Friend
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1862655147
+    locked: 0
+  - name: Foreground
+    uniqueID: 3272798811
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
